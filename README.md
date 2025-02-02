@@ -1,2 +1,2 @@
-# CODSOFT
-This Repository is for the internship projects at CodSoft
+# MINI Python Projects
+This Repository is for the small scaled projects
