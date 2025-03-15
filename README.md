@@ -3,7 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)  
 ![License](https://img.shields.io/badge/License-MIT-green.svg)  
 
-Welcome to the **Python Mini Projects** repository! 🚀 This repository contains a collection of small-scale Python projects designed for learning, practice, and fun. Each project serves as a standalone example of a particular Python concept or utility.
+Welcome to the **Python Mini Projects** repository! 🚀 <br>
+
+This repository contains a collection of small-scale Python projects designed for learning, practice, and fun. Each project serves as a standalone example of a particular Python concept or utility.
 
 ## 📂 Project List
 
