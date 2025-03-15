@@ -1,3 +1,7 @@
+print("#########################################")
+print("#          MINIMAL DOS BLOCKER          #")
+print("#########################################\n")
+
 import os
 import sys
 import time
