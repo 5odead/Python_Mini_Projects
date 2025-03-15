@@ -15,6 +15,8 @@ Welcome to the **Python Mini Projects** repository! 🚀 This repository contain
 | **Python_DOS.py**                  | A Python-based DOS attack simulation script. |
 | **Rock_Paper_Scissors_Game.py**    | A simple Rock-Paper-Scissors game. |
 | **Simple_Calculator.py**           | A basic calculator supporting simple arithmetic operations. |
+| **PortScanner.py**                 | A multi-threaded port scanner to check for open ports on a target system. |
+
 
 ## 🚀 Getting Started
 
