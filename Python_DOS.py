@@ -1,3 +1,7 @@
+print("##################################")
+print("#          PYTHON DOSSER         #")
+print("##################################\n")
+
 import threading
 import socket
 
