@@ -41,7 +41,7 @@ This repository is for educational purposes only. The scripts provided here shou
 ## 📌 Prerequisites
 
 - Python 3.x installed  
-- Required dependencies (if any, see individual project files)  
+- Required dependencies 
 
 ## 🛠 Contributing
 
